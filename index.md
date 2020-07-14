@@ -36,6 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+<iframe src="https://calendar.google.com/calendar/embed?src=uibc40g5181o4bl2d9anev58vk%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ![image0](img/image0.jpeg)
 ![image1](img/image1.jpeg)
 ![image2](img/image2.jpeg)
