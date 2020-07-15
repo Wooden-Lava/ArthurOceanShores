@@ -11,7 +11,9 @@
 </head>
 
 <body>
-    <div class="fotorama">
+    <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
+        data-minheight="300" data-maxheight="100%" data-allowfullscreen="true" data-nav="thumbs" data-loop="true"
+        data-autoplay="true" data-shuffle="true">
         <img src="img/image0.jpeg">
         <img src="img/image1.jpeg">
         <img src="img/image2.jpeg">
@@ -31,9 +33,13 @@
         <img src="img/image16.jpeg">
         <img src="img/image17.jpeg">
     </div>
-    <iframe
-        src="https://calendar.google.com/calendar/embed?src=uibc40g5181o4bl2d9anev58vk%40group.calendar.google.com&ctz=America%2FLos_Angeles"
-        style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <div style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden;">
+        <iframe
+            src="https://calendar.google.com/calendar/embed?src=uibc40g5181o4bl2d9anev58vk%40group.calendar.google.com&ctz=America%2FLos_Angeles"
+            style="border: 0; position: absolute; top:0; left: 0; width: 100%; height: 100%;" width="100%" height="600"
+            frameborder="0" scrolling="no">
+        </iframe>
+    </div>
 </body>
 
 </html>
