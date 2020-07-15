@@ -1,2 +1,2 @@
 # Arthur Ocean Shores
-Arthur's Ocean Shores house website
+Brought to you by Arthur Zavala
