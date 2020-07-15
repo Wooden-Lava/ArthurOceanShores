@@ -2,12 +2,16 @@
 <html>
 
 <head>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/galleria.min.js"></script>
+    <!-- jQuery 1.8 or later, 33 KB -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <!-- Fotorama from CDNJS, 19 KB -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
 </head>
 
 <body>
-    <div class="galleria">
+    <div class="fotorama">
         <img src="img/image0.jpeg">
         <img src="img/image1.jpeg">
         <img src="img/image2.jpeg">
@@ -30,12 +34,6 @@
     <iframe
         src="https://calendar.google.com/calendar/embed?src=uibc40g5181o4bl2d9anev58vk%40group.calendar.google.com&ctz=America%2FLos_Angeles"
         style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-    <script>
-        (function () {
-            Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');
-            Galleria.run('.galleria');
-        }());
-    </script>
 </body>
 
 </html>
