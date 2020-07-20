@@ -17,7 +17,7 @@
     The firepit area is ideal for gathering the famliy in the evening to hangout together or to roast s'mores. The beaches are a
     quick one mile walk from the home. If you would prefer, head into town to shop, frequent one of the local restaurants, rent a
     moped or ride the bumper cars.
-    
+    <hr>
     If interested just check out the calender for available weekends.
     Call either,
     Arthur @ (253) 951-9734
