@@ -13,9 +13,9 @@
 
 <body>
     Enjoy a peaceful and relaxing weekend in Ocean Shores. Our three bedroom, two bath home offers plenty of room for the family.
-    The home includes a large deck perfect for enjoying your morning coffee or a glass of wine while watching the sunrise or sunset.
-    The firepit area is ideal for gathering the famliy in the evening to hangout together or to roast s'mores. The beaches are a
-    quick one mile walk from the home. If you would prefer, head into town to shop, frequent one of the local restaurants, rent a
+    The home includes a large deck perfect for enjoying your morning coffee and the sunrise or a glass of wine while watching the sunset.
+    The firepit area is ideal for gathering the famliy in the evening to hangout together to roast s'mores. The beaches are a
+    quick one mile walk from the home. If you would prefer you could head into town to shop, frequent one of the local restaurants, rent a
     moped or ride the bumper cars.
     <hr>
     If interested just check out the calender for available weekends.
