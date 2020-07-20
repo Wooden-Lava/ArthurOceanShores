@@ -9,7 +9,25 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
 </head>
 
+
+
 <body>
+ <p>
+    Enjoy a peaceful and relaxing weekend in Ocean Shores. Our three bedroom, two bath home offers plenty of room for the family.
+    The home includes a large deck perfect for enjoying your morning coffee or a glass of wine while watching the sunrise or sunset.
+    The firepit area is ideal for gathering the famliy in the evening to hangout together or to roast s'mores. The beaches are a
+    quick one mile walk from the home. If you would prefer, head into town to shop, frequent one of the local restaurants, rent a
+    moped or ride the bumper cars.
+ </p>
+ <p>
+    If interested just check out the calender for available weekends.
+    Call either,
+    Arthur @ (253) 951-9734
+    or
+    Mike @ (206) 225-1551
+    To book and reserve your stay
+</p>
+    
     <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
         data-minheight="300" data-maxheight="100%" data-allowfullscreen="true" data-nav="thumbs" data-loop="true"
         data-autoplay="true" data-shuffle="true">
