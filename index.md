@@ -23,7 +23,8 @@
     Arthur @ (253) 951-9734
     or
     Mike @ (206) 225-1551
-    To book and reserve your stay
+    To book and reserve your stay.
+    <hr>
     
     <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
         data-minheight="300" data-maxheight="100%" data-allowfullscreen="true" data-nav="thumbs" data-loop="true"
