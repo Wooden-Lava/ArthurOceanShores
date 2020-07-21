@@ -27,9 +27,5 @@ into town to shop, frequent one of the local restaurants, rent a moped, or ride 
     <img src="img/image17.jpeg">
 </div>
 <div style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden;">
-    <iframe
-        src="https://calendar.google.com/calendar/embed?src=uibc40g5181o4bl2d9anev58vk%40group.calendar.google.com&ctz=America%2FLos_Angeles"
-        style="border: 0; position: absolute; top:0; left: 0; width: 100%; height: 100%;" width="100%" height="600"
-        frameborder="0" scrolling="no">
-    </iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=dWliYzQwZzUxODFvNGJsMmQ5YW5ldjU4dmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;showNav=1&amp;showTitle=0&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
