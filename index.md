@@ -6,7 +6,7 @@ into town to shop, frequent one of the local restaurants, rent a moped, or ride 
 
 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
     data-minheight="300" data-maxheight="100%" data-allowfullscreen="true" data-nav="thumbs" data-loop="true"
-    data-autoplay="true" data-shuffle="true">
+    data-autoplay="true">
     <img src="img/image0.jpeg">
     <img src="img/image1.jpeg">
     <img src="img/image2.jpeg">
