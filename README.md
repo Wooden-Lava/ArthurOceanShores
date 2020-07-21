@@ -1,2 +1,2 @@
-# Ocean Shores House
-Brought to you by Arthur Zavala
+# Ocean Shores
+Brought to you by Zavala/Brume
